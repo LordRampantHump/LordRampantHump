@@ -5,8 +5,8 @@
         <div style="position:absolute; width:100%; height:100%; box-shadow:5px 5px 0 #fff, -5px -5px 0 #fff; border-radius:50%; animation: rotate 6s infinite linear;"></div>
         <img src="https://avatars.githubusercontent.com/u/37228494?v=4" style="width: 30%; height: 30%; max-width: 100%; border-radius: 50%; background-size: 100%; border: 3px solid #fff;"></img>
     </div>
-    <div style="text-align:center;">
-        <h1 style="font-size:2rem; text-decoration:underline;">LordRampantHump</h1>
+    <div style="text-align:center; padding-bottom:10px">
+        <h1 style="font-size:2rem;">LordRampantHump</h1>
         <h2 style="color:#f8f6f9;">Freelancer</h2>
     </div>
 </div>
