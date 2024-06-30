@@ -15,18 +15,18 @@
 
 <div align="center">
     <a style="color: #0a0c1000; text-decoration: none;" href="https://codepen.io/LordRampantHump/" title="LordRampantHump Codepen">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/icons/codepen/codepen-original.svg" alt="Codepen" width="50" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/codepen_1.png" alt="Codepen" width="50" height="50" style="padding: 10px;">
     </a>
     <a style="color: #0a0c1000; text-decoration: none;" href="https://www.npmjs.com/settings/lordrampenthump/" title="LordRampantHump NPM JS">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/npm_1.png" alt="NPM" width="50" height="50" style="padding: 10px;">
     </a>
     <a style="color: #0a0c1000; text-decoration: none;" href="https://github.com/LordRampantHump" title="LordRampantHump Github">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/github_1.png" alt="GitHub" width="50" height="50" style="padding: 10px;">
     </a>
     <a style="color: #0a0c1000; text-decoration: none;" href="https://discordapp.com/users/692016302830911589" title="LordRampantHump Discord">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/icons/discordjs/discordjs-plain.svg" alt="Discord" width="50" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/discordjs_1.png" alt="Discord" width="50" height="50" style="padding: 10px;">
     </a>
     <a style="color: #0a0c1000; text-decoration: none;" href="https://uk.linkedin.com/in/morgan-mcconville" title="LordRampantHump LinkedIn">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" width="50" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/linkedin_1.png" alt="LinkedIn" width="50" height="50" style="padding: 10px;">
     </a>
 </div>
