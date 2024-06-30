@@ -13,7 +13,6 @@
 
 # Contact:
 
-<img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/border.png" width="100%">
 <div align="center">
     <div style="text-align:center; padding-bottom:10px">
         <h1 style="font-size:2rem;">Find Me On:</h1>
@@ -40,27 +39,19 @@
 
 # Knowledge:
 
-<img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/border.png" width="100%">
 <div align="center">
     <div style="text-align:center; padding-bottom:10px">
         <h1 style="font-size:2rem;">What I work with:</h1>
     </div>
-    <a style="color: #0a0c1000; text-decoration: none;" href="https://codepen.io/LordRampantHump/" title="LordRampantHump Codepen">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/codepen_1.png" alt="Codepen" width="100" height="50" style="padding: 10px;">
-    </a>
-    <a style="color: #0a0c1000; text-decoration: none;" href="https://www.npmjs.com/settings/lordrampenthump/" title="LordRampantHump NPM JS">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/npm_1.png" alt="NPM" width="100" height="50" style="padding: 10px;">
-    </a>
-    <a style="color: #0a0c1000; text-decoration: none;" href="https://github.com/LordRampantHump" title="LordRampantHump Github">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/github_1.png" alt="GitHub" width="100" height="50" style="padding: 10px;">
-    </a>
-    <a style="color: #0a0c1000; text-decoration: none;" href="https://discordapp.com/users/692016302830911589" title="LordRampantHump Discord">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/discordjs_1.png" alt="Discord" width="100" height="50" style="padding: 10px;">
-    </a>
-    <a style="color: #0a0c1000; text-decoration: none;" href="https://uk.linkedin.com/in/morgan-mcconville" title="LordRampantHump LinkedIn">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/linkedin_1.png" alt="LinkedIn" width="100" height="50" style="padding: 10px;">
-    </a>
-    <a style="color: #0a0c1000; text-decoration: none;" href="https://stackoverflow.com/users/8692592" title="LordRampantHump StackOverflow">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/stackoverflow_1.png" alt="Stack Overflow" width="100" height="50" style="padding: 10px;">
-    </a>
+
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/html.png" alt="HTML" width="100" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/css.png" alt="CSS" width="100" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/js.png" alt="Javascript" width="100" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/node.png" alt="NodeJS" width="100" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/discordjs.png" alt="discordjs" width="100" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/mongoose.png" alt="Mongoose" width="100" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/tailwind.png" alt="Tailwind" width="100" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/vite.png" alt="Vite" width="100" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/php.png" alt="PHP" width="100" height="50" style="padding: 10px;">
+
 </div>
