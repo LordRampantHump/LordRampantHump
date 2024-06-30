@@ -31,4 +31,7 @@
     <a style="color: #0a0c1000; text-decoration: none;" href="https://uk.linkedin.com/in/morgan-mcconville" title="LordRampantHump LinkedIn">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/linkedin_1.png" alt="LinkedIn" width="100" height="50" style="padding: 10px;">
     </a>
+    <a style="color: #0a0c1000; text-decoration: none;" href="https://stackoverflow.com/users/8692592/poopy-doop" title="LordRampantHump StackOverflow">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/stackoverflow_1.png" alt="Stack Overflow" width="100" height="50" style="padding: 10px;">
+    </a>
 </div>
