@@ -2,7 +2,6 @@
 
 <div align="center" style="background-color:#0a0c10; color:#fff; font-family:Roboto, sans-serif; font-weight:100; padding:30px;">
     <div style="aspect-ratio:1/1; width:min(300px, 90%); position:relative;">
-        <div style="position:absolute; width:100%; height:100%; box-shadow:5px 5px 0 #fff, -5px -5px 0 #fff; border-radius:50%; animation: rotate 6s infinite linear;"></div>
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/profile.png" style="width: 30%; height: 30%; max-width: 100%; border-radius: 50%; background-size: 100%; border: 3px solid #fff;"></img>
     </div>
     <div style="text-align:center; padding-bottom:10px">
@@ -11,9 +10,12 @@
     </div>
 </div>
 
-# Where is LordRampantHump?
+# Contact
 
 <div align="center">
+    <div style="text-align:center; padding-bottom:10px">
+        <h1 style="font-size:2rem;">Find Me On:</h1>
+    </div>
     <a style="color: #0a0c1000; text-decoration: none;" href="https://codepen.io/LordRampantHump/" title="LordRampantHump Codepen">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/codepen_1.png" alt="Codepen" width="100" height="50" style="padding: 10px;">
     </a>
