@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="#">
-        <img alt="GitHub release (latest by semver)" src="https://img.shields.io/github/v/release/devicons/devicon?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver">
+    <a href="https://codepen.io/LordRampantHump/">
+        <img style="max-height:100px" alt="Lordrampanthump Codepen" src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/icons/codepen/codepen-original-wordmark.svg">
     </a>
     <a href="#">
         <img alt="GitHub" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
