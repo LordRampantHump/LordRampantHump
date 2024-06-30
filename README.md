@@ -3,7 +3,7 @@
 <div align="center" style="background-color:#0a0c10; color:#fff; font-family:Roboto, sans-serif; font-weight:100; padding:30px;">
     <div style="aspect-ratio:1/1; width:min(300px, 90%); position:relative;">
         <div style="position:absolute; width:100%; height:100%; box-shadow:5px 5px 0 #fff, -5px -5px 0 #fff; border-radius:50%; animation: rotate 6s infinite linear;"></div>
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/profile.png" style="border-radius:50%; width:100%; height:100%; background-size:100%; background-position:center; transition:all 0.2s ease-in-out; position:absolute;"></img>
+        <img src="https://avatars.githubusercontent.com/u/37228494?v=4" style="width: 30%; height: 30%; max-width: 100%; border-radius: 50%; background-size: 100%; border: 3px solid #fff;"></img>
     </div>
     <div style="text-align:center;">
         <h1 style="font-size:2rem; text-decoration:underline;">LordRampantHump</h1>
