@@ -3,8 +3,8 @@
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/profile.png" style="width: 20%; height: 20%;"></img>
     </div>
     <div style="text-align:center; padding-bottom:10px">
-        <h1 style="font-size:2rem;">LordRampantHump</h1>
-        <h2 style="color:#f8f6f9;">Freelancer</h2>
+        <p style="font-size:2rem;">LordRampantHump</p>
+        <p style="color:#f8f6f9; font-size:1rem;">Freelancer</p>
         </br>
     </div>
 </div>
@@ -13,7 +13,7 @@
 
 <div align="center">
     <div style="text-align:center; padding-bottom:10px">
-        <h1 style="font-size:2rem;">Find Me On:</h1>
+        <p style="font-size:2rem;">Find Me On:</p>
         </br>  
     </div>
     <a style="color: #0a0c1000; text-decoration: none;" href="https://codepen.io/LordRampantHump/" title="LordRampantHump Codepen">
@@ -41,7 +41,7 @@
 
 <div align="center">
     <div style="text-align:center; padding-bottom:100px">
-        <h1 style="font-size:2rem;">What I work with:</h1>
+        <p style="font-size:2rem;">What I work with:</p>
     </div>
 </br>   
 <a>
