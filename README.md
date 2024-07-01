@@ -4,8 +4,6 @@
 <br>        
 </div>
 
-<br>
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/fmo.png" style="width: 100%;"></img>
     <br/>
@@ -36,7 +34,7 @@
 <br>
     <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/iww.png" style="width: 100%;"></img>
 <br>
-<br>   
+ 
 <a>
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/html.png" alt="HTML" width="70" height="35" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/css.png" alt="CSS" width="70" height="35" style="padding: 10px;">
