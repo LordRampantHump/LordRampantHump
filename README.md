@@ -1,6 +1,5 @@
 #
 
-<img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/border.png" width="100%">
 <div align="center" style="background-color:#0a0c10; color:#fff; font-family:Roboto, sans-serif; font-weight:100; padding:30px;">
     <div style="aspect-ratio:1/1; width:min(300px, 90%); position:relative;">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/profile.png" style="width: 30%; height: 30%; max-width: 100%; border-radius: 50%; background-size: 100%; border: 3px solid #fff;"></img>
@@ -8,8 +7,13 @@
     <div style="text-align:center; padding-bottom:10px">
         <h1 style="font-size:2rem;">LordRampantHump</h1>
         <h2 style="color:#f8f6f9;">Freelancer</h2>
+        </br>
     </div>
 </div>
+
+#
+
+#
 
 #
 
@@ -37,6 +41,10 @@
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/stackoverflow_1.png" alt="Stack Overflow" width="100" height="50" style="padding: 10px;">
     </a>
 </div>
+
+#
+
+#
 
 #
 
