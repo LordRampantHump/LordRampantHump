@@ -1,4 +1,4 @@
-# Profile:
+#
 
 <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/border.png" width="100%">
 <div align="center" style="background-color:#0a0c10; color:#fff; font-family:Roboto, sans-serif; font-weight:100; padding:30px;">
@@ -11,11 +11,12 @@
     </div>
 </div>
 
-# Contact:
+#
 
 <div align="center">
     <div style="text-align:center; padding-bottom:10px">
         <h1 style="font-size:2rem;">Find Me On:</h1>
+        </br>  
     </div>
     <a style="color: #0a0c1000; text-decoration: none;" href="https://codepen.io/LordRampantHump/" title="LordRampantHump Codepen">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/codepen_1.png" alt="Codepen" width="100" height="50" style="padding: 10px;">
@@ -37,12 +38,13 @@
     </a>
 </div>
 
-# Knowledge:
+#
 
 <div align="center">
     <div style="text-align:center; padding-bottom:100px">
         <h1 style="font-size:2rem;">What I work with:</h1>
     </div>
+</br>   
 <a>
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/html.png" alt="HTML" width="90" height="45" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/css.png" alt="CSS" width="90" height="45" style="padding: 10px;">
