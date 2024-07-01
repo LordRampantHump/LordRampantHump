@@ -43,7 +43,7 @@
     <div style="text-align:center; padding-bottom:10px">
         <h1 style="font-size:2rem;">What I work with:</h1>
     </div>
-
+<a>
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/html.png" alt="HTML" width="100" height="50" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/css.png" alt="CSS" width="100" height="50" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/js.png" alt="Javascript" width="100" height="50" style="padding: 10px;">
@@ -53,5 +53,5 @@
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/tailwind.png" alt="Tailwind" width="100" height="50" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/vite.png" alt="Vite" width="100" height="50" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/php.png" alt="PHP" width="100" height="50" style="padding: 10px;">
-
+</a>
 </div>
