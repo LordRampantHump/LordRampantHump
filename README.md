@@ -9,7 +9,7 @@
     </div>
 </div>
 
-#
+<br>
 
 <div align="center">
     <div style="text-align:center; padding-bottom:10px">
@@ -36,9 +36,8 @@
     </a>
 </div>
 
-#
-
-#
+<br>
+<br/>
 
 <div align="center">
     <div style="text-align:center; padding-bottom:100px">
