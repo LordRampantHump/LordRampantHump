@@ -15,8 +15,6 @@
 
 #
 
-#
-
 <div align="center">
     <div style="text-align:center; padding-bottom:10px">
         <h1 style="font-size:2rem;">Find Me On:</h1>
@@ -46,8 +44,6 @@
 
 #
 
-#
-
 <div align="center">
     <div style="text-align:center; padding-bottom:100px">
         <h1 style="font-size:2rem;">What I work with:</h1>
@@ -64,3 +60,4 @@
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/vite.png" alt="Vite"  width="90" height="45" style="padding: 10px;">
 </a>        
 </div>
+</br>
