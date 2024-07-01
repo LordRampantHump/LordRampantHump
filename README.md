@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/banner.png" style="width: 100%;"></img>
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/banner.png?cache" style="width: 100%;"></img>
 <br>        
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 <br>
-    <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/iww.png" style="width: 100%;"></img>
+    <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/iww.png?cache" style="width: 100%;"></img>
 <br>
  
 <a>
