@@ -1,8 +1,6 @@
-#
-
 <div align="center" style="background-color:#0a0c10; color:#fff; font-family:Roboto, sans-serif; font-weight:100; padding:30px;">
     <div style="aspect-ratio:1/1; width:min(300px, 90%); position:relative;">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/profile.png" style="width: 30%; height: 30%; max-width: 100%; border-radius: 50%; background-size: 100%; border: 3px solid #fff;"></img>
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/profile.png" style="width: 20%; height: 20%;"></img>
     </div>
     <div style="text-align:center; padding-bottom:10px">
         <h1 style="font-size:2rem;">LordRampantHump</h1>
@@ -10,8 +8,6 @@
         </br>
     </div>
 </div>
-
-#
 
 #
 
