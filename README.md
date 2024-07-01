@@ -5,10 +5,8 @@
 <br>
 
 <div align="center">
-    <div style="text-align:center; padding-bottom:10px">
-        <p style="font-size:2rem;">Find Me On:</p>
-        </br>  
-    </div>
+    <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/fmo.png" style="width: 100%;"></img>
+    <br/>
     <a style="color: #0a0c1000; text-decoration: none;" href="https://codepen.io/LordRampantHump/" title="LordRampantHump Codepen">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/codepen_1.png" alt="Codepen" width="100" height="50" style="padding: 10px;">
     </a>
@@ -33,9 +31,8 @@
 <br/>
 
 <div align="center">
-    <div style="text-align:center; padding-bottom:100px">
-        <p style="font-size:2rem;">What I work with:</p>
-    </div>
+    <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/iww.png" style="width: 100%;"></img>
+    <br/>
 </br>   
 <a>
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/html.png" alt="HTML" width="70" height="35" style="padding: 10px;">
