@@ -1,12 +1,5 @@
-<div align="center" style="background-color:#0a0c10; color:#fff; font-family:Roboto, sans-serif; font-weight:100; padding:30px;">
-    <div style="aspect-ratio:1/1; width:min(300px, 90%); position:relative;">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/profile.png" style="width: 20%; height: 20%;"></img>
-    </div>
-    <div style="text-align:center; padding-bottom:10px">
-        <p style="font-size:2rem;">LordRampantHump</p>
-        <p style="color:#f8f6f9; font-size:1rem;">Freelancer</p>
-        </br>
-    </div>
+<div align="center">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/banner.png" style="width: 100%;"></img>
 </div>
 
 <br>
