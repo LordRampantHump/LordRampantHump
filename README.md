@@ -44,12 +44,13 @@
         <h1 style="font-size:2rem;">What I work with:</h1>
     </div>
 <a>
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/html.png" alt="HTML" width="100" height="50" style="padding: 10px;">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/css.png" alt="CSS" width="100" height="50" style="padding: 10px;">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/js.png" alt="Javascript" width="100" height="50" style="padding: 10px;">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/node.png" alt="NodeJS" width="100" height="50" style="padding: 10px;">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/discordjs.png" alt="discordjs" width="100" height="50" style="padding: 10px;">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/mongoose.png" alt="Mongoose" width="100" height="50" style="padding: 10px;">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/tailwind.png" alt="Tailwind" width="100" height="50" style="padding: 10px;">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/vite.png" alt="Vite" width="100" height="50" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/html.png" alt="HTML" width="90" height="45" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/css.png" alt="CSS" width="90" height="45" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/js.png" alt="Javascript"  width="90" height="45" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/node.png" alt="NodeJS" width="90" height="45" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/discordjs.png" alt="discordjs"  width="90" height="45" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/mongoose.png" alt="Mongoose"  width="90" height="45" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/tailwind.png" alt="Tailwind"  width="90" height="45" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/vite.png" alt="Vite"  width="90" height="45" style="padding: 10px;">
+</a>        
 </div>
