@@ -1,5 +1,7 @@
 <div align="center">
-        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/banner2.png" style="width: 100%;"></img>
+<br>
+        <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/banner.png" style="width: 100%;"></img>
+<br>        
 </div>
 
 <br>
@@ -28,12 +30,13 @@
 </div>
 
 <br>
-<br/>
+<br>
 
 <div align="center">
+<br>
     <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/iww.png" style="width: 100%;"></img>
-    <br/>
-</br>   
+<br>
+<br>   
 <a>
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/html.png" alt="HTML" width="70" height="35" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/LordRampantHump/LordRampantHump/master/img/png/css.png" alt="CSS" width="70" height="35" style="padding: 10px;">
